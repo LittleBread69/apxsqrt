@@ -13,7 +13,7 @@ def apxsqrt(x: int):
                 w += 1
             if w ** 2 > x:
                 w -= 1
-            x = w  + (x - w ** 2) / (2 * w)
+            x = w + (x - w ** 2) / (2 * w)
             if x ** 2 == (w + 1) ** 2:
                 return x - 0.05
             else:             
