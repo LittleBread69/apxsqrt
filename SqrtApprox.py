@@ -24,8 +24,7 @@ def prcsqrt(x: float or int):
         raise ValueError("Cannot compute the square root of a negative number: ({}".format(x) + ")")
     else:
         return x ** 0.5
-        
-
+    
 #print(apxsqrt(-14))
 #print(apxsqrt(100))
 #print(apxsqrt(48))
