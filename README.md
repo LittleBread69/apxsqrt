@@ -7,4 +7,4 @@ EN: apxsqrt (approximate square root) is a project aimed at calculating the squa
 # transition to https://github.com/LittleBread69/ApproxyMath
 FR: Le code de apxsqrt n'est plus mis à jour, il a été transitionné dans un projet englobant d'autres fonctions. Toutefois, le code sera mis à jour dans le nouveau projet intitulé: ApproxyMath.
 
-En: EN: The code for apxsqrt is no longer being updated; it has been transitioned into a project that links and fusions other functions. However, the code will be updated within the new project titled ApproxyMath.
+EN: The code for apxsqrt is no longer being updated; it has been transitioned into a project that links and fusions other functions. However, the code will be updated within the new project titled ApproxyMath.
